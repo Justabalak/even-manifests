@@ -5,7 +5,7 @@
     <project name="Badmaneers/device_realme_even_rui4" path="device/realme/even" remote="github" revision="master" />
 
     <!-- Kernel tree -->
-    <project name="Badmaneers/kernel_even_4.19" path="kernel/realme/even" remote="github" revision="ksu" />
+    <project name="Badmaneers/kernel_even_4.19" path="kernel/realme/even" remote="github" revision="main" />
   
     <!-- Vendor tree -->
     <project name="Badmaneers/vendor_realme_even_rui4" path="vendor/realme/even" remote="github" revision="main" />
