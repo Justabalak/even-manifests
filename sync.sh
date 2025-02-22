@@ -7,7 +7,7 @@ git clone  https://github.com/Badmaneers/device_realme_even_rui4.git device/real
 rm -rf vendor/realme/even ; \
 git clone   --depth=1 https://github.com/Badmaneers/vendor_realme_even_rui4.git vendor/realme/even ; \
 # Clone Kernel Tree
-rm -rf device/realme/even ; \
+rm -rf kernel/realme/even ; \
 git clone  --depth=1 --recurse-submodules https://github.com/Badmaneers/kernel_even_4.19.git  kernel/realme/even ; \
 # Clone Lineage Tree
 rm -rf hardware/mediatek ; \
